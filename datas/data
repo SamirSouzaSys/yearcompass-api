@@ -1,0 +1,7 @@
+Question(data, year, timestamp)
+Answer(typeData, data, user, timestamp)
+TypeData(type-text)
+User(name, email, password, timestamp)
+
+Question - one === many - Answer - many === one - TypeData
+Answer - many === one - User
