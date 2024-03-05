@@ -1,3 +1,4 @@
+Database
 Question(data, year, timestamp)
 Answer(typeData, data, user, timestamp)
 TypeData(type-text)
